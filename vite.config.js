@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
-  base: '/TaskSwift/',
+  base: '/Project_TaskSwift/',
   plugins: [react(), tailwindcss()],
 })
